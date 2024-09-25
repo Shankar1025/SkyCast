@@ -29,4 +29,4 @@ A modern weather app that provides real-time weather data for cities worldwide. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Shankar1025/SkyCast.git
