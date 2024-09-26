@@ -30,3 +30,7 @@ A modern weather app that provides real-time weather data for cities worldwide. 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Shankar1025/SkyCast.git
+
+## To See My Website
+
+   https://shankar1025.github.io/SkyCast/
