@@ -34,3 +34,11 @@ A modern weather app that provides real-time weather data for cities worldwide. 
 ## To See My Website
 
    https://shankar1025.github.io/SkyCast/
+   
+## Preview 
+![Screenshot 2024-09-26 104207](https://github.com/user-attachments/assets/1489096e-445a-4b54-97e8-9a3f23ba2f4e)
+
+![Screenshot 2024-09-26 104228](https://github.com/user-attachments/assets/a7ce0266-ec65-4e45-8354-fea8c57732ea)
+
+
+   
